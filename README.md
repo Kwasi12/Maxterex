@@ -1,0 +1,2 @@
+# Maxterex
+chatgpt alternative
